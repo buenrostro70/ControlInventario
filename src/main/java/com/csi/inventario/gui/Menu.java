@@ -3,6 +3,7 @@ package com.csi.inventario.gui;
 import com.csi.inventario.BaseDeDatos;
 import com.csi.inventario.BaseDeDatosArchivo;
 import com.csi.inventario.Impresora;
+import com.csi.inventario.ImpresoraExcel;
 import java.awt.BorderLayout;
 import java.awt.FlowLayout;
 import java.awt.event.ActionEvent;
@@ -53,6 +54,9 @@ public class Menu extends JFrame{
         JLabel titulo = new JLabel("CSI - Control de Inventario");
         panelDeTitulo.setLayout(new BorderLayout());
         panelDeTitulo.add(titulo, BorderLayout.CENTER);
+        
+        //Crear impresora Excel
+        impresora = new ImpresoraExcel();
         
         // Crear Botones y agregarlo al panel de contenido
         panelDeContenido.setLayout(new FlowLayout());
