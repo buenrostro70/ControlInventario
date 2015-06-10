@@ -1,0 +1,4 @@
+Prueba,Prueba,Prueba,Prueba,Prueba
+G88101010100,A11,Rojo,10/jun/15,1000
+G88101010153,A12,Verde,10/Jun/15,1500
+G88101010100,A11,Rojo,10/Jun/15,1000

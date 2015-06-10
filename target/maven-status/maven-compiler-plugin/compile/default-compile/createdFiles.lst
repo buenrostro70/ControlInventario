@@ -1,0 +1,10 @@
+com\csi\inventario\BaseDeDatos.class
+com\csi\inventario\Impresora.class
+com\csi\inventario\Articulo.class
+com\csi\inventario\gui\CreadorDeArticulos.class
+com\csi\inventario\gui\BuscadorDeArticulos.class
+com\csi\inventario\Programa.class
+com\csi\inventario\gui\Menu.class
+com\csi\inventario\gui\Login.class
+com\csi\inventario\ImpresoraExcel.class
+com\csi\inventario\BaseDeDatosArchivo.class
